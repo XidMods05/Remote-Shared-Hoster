@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yc5bhxmUMY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Назар Батчаев\\RiderProjects\\RemoteSharedHoster\\RSH.Test.Project1\\RSH.Test.Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Назар Батчаев\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Назар Батчаев\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Назар Батчаев\\.nuget\\packages\\watsontcp\\6.0.6\\watsontcp.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

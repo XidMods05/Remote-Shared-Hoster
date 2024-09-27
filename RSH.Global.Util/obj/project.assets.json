@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "RSH.Global.Conf/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RSH.Global.Conf.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RSH.Global.Conf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSH.Global.Conf/1.0.0": {
+      "type": "project",
+      "path": "../RSH.Global.Conf/RSH.Global.Conf.csproj",
+      "msbuildProject": "../RSH.Global.Conf/RSH.Global.Conf.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "RSH.Global.Conf >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Назар Батчаев\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Назар Батчаев\\RiderProjects\\RemoteSharedHoster\\RSH.Global.Util\\RSH.Global.Util.csproj",
+      "projectName": "RSH.Global.Util",
+      "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\RemoteSharedHoster\\RSH.Global.Util\\RSH.Global.Util.csproj",
+      "packagesPath": "C:\\Users\\Назар Батчаев\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\RemoteSharedHoster\\RSH.Global.Util\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Назар Батчаев\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Назар Батчаев\\RiderProjects\\RemoteSharedHoster\\RSH.Global.Conf\\RSH.Global.Conf.csproj": {
+              "projectPath": "C:\\Users\\Назар Батчаев\\RiderProjects\\RemoteSharedHoster\\RSH.Global.Conf\\RSH.Global.Conf.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

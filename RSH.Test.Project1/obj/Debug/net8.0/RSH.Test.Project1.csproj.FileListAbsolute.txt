@@ -1,0 +1,17 @@
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\bin\Debug\net8.0\RSH.Test.Project1.exe
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\bin\Debug\net8.0\RSH.Test.Project1.deps.json
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\bin\Debug\net8.0\RSH.Test.Project1.runtimeconfig.json
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\bin\Debug\net8.0\RSH.Test.Project1.dll
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\bin\Debug\net8.0\RSH.Test.Project1.pdb
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\bin\Debug\net8.0\WatsonTcp.dll
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.Project1.csproj.AssemblyReference.cache
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.Project1.AssemblyInfoInputs.cache
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.Project1.AssemblyInfo.cs
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.Project1.csproj.CoreCompileInputs.cache
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.676F9FBB.Up2Date
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.Project1.dll
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\refint\RSH.Test.Project1.dll
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.Project1.pdb
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\RSH.Test.Project1.genruntimeconfig.cache
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Test.Project1\obj\Debug\net8.0\ref\RSH.Test.Project1.dll

@@ -1,0 +1,14 @@
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\bin\Debug\net8.0\RSH.Global.Conf.exe
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\bin\Debug\net8.0\RSH.Global.Conf.deps.json
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\bin\Debug\net8.0\RSH.Global.Conf.runtimeconfig.json
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\bin\Debug\net8.0\RSH.Global.Conf.dll
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\bin\Debug\net8.0\RSH.Global.Conf.pdb
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\RSH.Global.Conf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\RSH.Global.Conf.AssemblyInfoInputs.cache
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\RSH.Global.Conf.AssemblyInfo.cs
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\RSH.Global.Conf.csproj.CoreCompileInputs.cache
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\RSH.Global.Conf.dll
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\refint\RSH.Global.Conf.dll
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\RSH.Global.Conf.pdb
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\RSH.Global.Conf.genruntimeconfig.cache
+C:\Users\Назар Батчаев\RiderProjects\RemoteSharedHoster\RSH.Global.Conf\obj\Debug\net8.0\ref\RSH.Global.Conf.dll
